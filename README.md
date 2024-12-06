@@ -30,8 +30,4 @@ Contributors
 thisalwickramasinghe
 We welcome contributions! Please read our contributing guidelines for more information.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-
-You can add this content to your README.md file in the repository.
